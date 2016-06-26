@@ -1,0 +1,12 @@
+{
+   "require": {
+       "cboden/Ratchet": "0.2.*"
+    },
+    "autoload": {
+          "psr-0": {
+               "LiveScores": "src"
+       }
+    }
+}
+
+
